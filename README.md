@@ -1,6 +1,6 @@
 # calculadora
 
-A new Flutter project.
+Aplicacion de calculadoro basica para la clase de FLutter Avanzado de beca de la MESCYT conjuntamente con la UAPA.
 
 ## Getting Started
 
